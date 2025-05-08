@@ -1,3 +1,9 @@
+⚠️ **Outdated — This is a translation of the 2nd Edition of Token Economy (2020).**
+
+👉 **Current 3rd Edition (2025):**  
+• GitHub landing repo → <https://github.com/Token-Economy-Book/token-economy-current>  
+• Open-access web version → <https://token.kitchen/token-economy/third-edition>
+
 # Deutsche Ausgabe
 * Gratis auf Github: https://github.com/Token-Economy-Book/GermanTranslation/wiki.<br>
 * Print (Paperback & Hardcover) und eBook Versionen sind auf Amazon (https://amzn.to/2W7lQ8h) & andere online Buchshops verfügbar.
